@@ -10,5 +10,7 @@ yarn add @tryghost/content-api
 ```
 
 ```
-docker build -t mitchldtn/routing-test:v001 .
+docker build -t <image name> .
 ```
+
+Docker Image for repo: `mitchldtn/routing-test:v001`
